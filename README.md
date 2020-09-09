@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ujian-CBT
 
 Aplikasi Ujian CBT Menggunakan CodeIgniter
